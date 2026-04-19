@@ -1,0 +1,6 @@
+{
+  "name": "Chroma Run",
+  "description": "A fast-paced 3D color-switching runner game. Switch your color to match the platforms and survive as long as possible. Inspired by Chameleon Run.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
